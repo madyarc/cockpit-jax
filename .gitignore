@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+.vscode/
+
+# run outputs: logs, checkpoints, reference data, saved replays
+runs/
+wandb/
+*.csv
+*.mat
+*.npz

@@ -1,0 +1,7 @@
+# jax and jaxlib are NOT listed: install the build that matches your CUDA, e.g.
+#   pip install -U "jax[cuda12]"
+flax
+optax
+orbax-checkpoint
+numpy
+matplotlib
